@@ -1,10 +1,10 @@
 # storytellingwithdataCOVID-19
-Berikut meruapakan analisa sederhana dan visualisasi dari data Covid-19 di
+### Berikut meruapakan analisa sederhana dan visualisasi dari data Covid-19 di
   1. Dunia
   2. Indonesia
   3. Jakarta
   
-Sumber data COVID-19
+### Sumber data COVID-19
 
 1. Dunia : Johns Hopkins University
    https://github.com/CSSEGISandData
