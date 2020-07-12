@@ -13,6 +13,10 @@ Sumber data COVID-19
 3. Jakarta : Riwayat File Covid-19 DKI Jakarta
    https://riwayat-file-covid-19-dki-jakarta-jakartagis.hub.arcgis.com/
    
+ note : 
+ untuk mendapatkan analisis dan visualisasi terkini pada analisis covid di Dunia dan di Jakarta
+ anda dapat mendownload data terbaru dari sumber diatas dan mencantumkan kedalam source code
+   
    ![ezgif com-crop](https://user-images.githubusercontent.com/52824290/87219097-bd75cc00-c382-11ea-949d-48f717b9a1b6.gif)
    
   
